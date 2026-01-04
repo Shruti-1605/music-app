@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Music Streaming App
 
 ## Tech Stack
@@ -113,3 +114,10 @@ The app includes sample tracks for testing. To add real audio files:
 - For production, add proper file upload, audio format validation, and security measures
 - Consider using a proper database like PostgreSQL for production
 - Add proper error handling and validation
+=======
+# music-app
+>>>>>>> cb8d02a62fa442d6f5d22f3a09b5994a8a0a22aa
+
+# Music App
+Music streaming application built using React and Python Flask.
+

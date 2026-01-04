@@ -1,0 +1,1 @@
+[{"id": 1, "username": "admin", "email": "admin@test.com", "password": "admin123", "is_admin": true}, {"id": 2, "username": "shruti", "email": "shruti@gmail.com", "password": "123", "is_admin": false}]
